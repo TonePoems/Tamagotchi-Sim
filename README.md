@@ -114,4 +114,7 @@ quoteChoice[3] = "";
 randomQuote = rand() % 4;
 
 cout << quoteChoice[randomQuote] << endl;
+
+A simple file save system was implemented to allow user to save their progress from one session to another. 
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
